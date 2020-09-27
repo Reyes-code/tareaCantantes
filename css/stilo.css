@@ -1,0 +1,16 @@
+.form{
+    margin: 6em;
+    padding: 1em;
+    float: left;
+}
+.conte{
+    
+    padding: 1em;
+    overflow: hidden;
+}
+body{
+    background-image: url(https://media.giphy.com/media/VnIoecjQ3caw8/giphy.gif);
+    background-repeat: no-repeat;
+   background-size: 1400px;
+   background-attachment: fixed;
+}
